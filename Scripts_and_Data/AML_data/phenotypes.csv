@@ -1,0 +1,143 @@
+public_id,sample.type,FAB,genotype,relapse
+AML_001,diagnostic,M2,normal,TRUE
+AML_002,diagnostic,M5,t(11;19),TRUE
+AML_003,diagnostic,M1,normal,FALSE
+AML_004_r,relapse,M5,,TRUE
+AML_005,diagnostic,M2,mono 7,TRUE
+AML_006,diagnostic,M4,inv(16),FALSE
+AML_007,diagnostic,M4,normal,FALSE
+AML_008,diagnostic,M2,normal,
+AML_009,diagnostic,M5,t(9;11),FALSE
+AML_010,diagnostic,M2,other clon abn,FALSE
+AML_011,diagnostic,M7,other clon abn,FALSE
+AML_012,diagnostic,M5,other 11q23/MLL,FALSE
+AML_013,diagnostic,M3,normal,FALSE
+AML_014,diagnostic,M5,t(10;11),TRUE
+AML_004,diagnostic,M5,t(11;19),TRUE
+AML_015,diagnostic,M5,other 11q23/MLL,TRUE
+AML_016,diagnostic,M7,other clon abn,FALSE
+AML_017,diagnostic,M5,t(9;11),FALSE
+AML_018,diagnostic,M2,normal,FALSE
+AML_019_r,relapse,M2,,TRUE
+AML_020,diagnostic,M5,other 11q23/MLL,FALSE
+AML_021,diagnostic,M0,normal,TRUE
+AML_022,diagnostic,M5,t(10;11),FALSE
+AML_023,diagnostic,M1,3q21q26,TRUE
+AML_024,diagnostic,M2,normal,FALSE
+AML_025,diagnostic,M3,other clon abn,FALSE
+AML_026,diagnostic,M4,other clon abn,TRUE
+AML_027,diagnostic,M4,inv(16),FALSE
+AML_028_r,relapse,M2,,TRUE
+AML_029,diagnostic,M2,t(8;21),TRUE
+AML_030,diagnostic,M5,sole+8,FALSE
+AML_031,diagnostic,M1,sole+8,FALSE
+AML_019,diagnostic,M2,normal,TRUE
+AML_032,diagnostic,M6,normal,FALSE
+AML_033_r,relapse,M6,,TRUE
+AML_034,diagnostic,M7,other clon abn,FALSE
+AML_035,diagnostic,M1,mono 7,TRUE
+AML_036,diagnostic,M2,t(8;21),FALSE
+AML_037,diagnostic,M0,normal,
+AML_038,diagnostic,M4,inv(16),FALSE
+AML_039_r,relapse,M2,,TRUE
+AML_040,diagnostic,M2,t(8;21),FALSE
+AML_041,diagnostic,M5,t(11;19),TRUE
+AML_042,diagnostic,M4,t(10;11),TRUE
+AML_043,diagnostic,M2,normal,TRUE
+AML_044_r,relapse,M1,,TRUE
+AML_045,diagnostic,M2,normal,TRUE
+AML_046,diagnostic,M3,t(15;17),FALSE
+AML_047_r,relapse,M4,,TRUE
+AML_048,diagnostic,M4,other clon abn,FALSE
+AML_049,diagnostic,M4,normal,FALSE
+AML_050,diagnostic,M1,other clon abn,TRUE
+AML_051,diagnostic,M4,inv(16),TRUE
+AML_052,diagnostic,M4,inv(16),FALSE
+AML_053,diagnostic,M2,t(8;21),FALSE
+AML_054,diagnostic,M5,t(9;11),FALSE
+AML_055,diagnostic,M2,t(8;21),
+AML_056,diagnostic,M2,t(8;21),TRUE
+AML_044,diagnostic,M1,normal,TRUE
+AML_057,diagnostic,M1,normal,
+AML_058,diagnostic,M2,t(8;21),TRUE
+AML_059,diagnostic,M3,t(15;17),FALSE
+AML_060_r,relapse,M5,,TRUE
+AML_061,diagnostic,M5,t(9;11),FALSE
+AML_062,diagnostic,M5,t(9;11),TRUE
+AML_063,diagnostic,M5,t(10;11),FALSE
+AML_064,diagnostic,M4,inv(16),FALSE
+AML_065_r,relapse,M4,,TRUE
+AML_066,diagnostic,M2,t(8;21),TRUE
+AML_067_r,relapse,M2,,TRUE
+AML_068,diagnostic,M4,normal,TRUE
+AML_069,diagnostic,M5,t(9;11),FALSE
+AML_070,diagnostic,M5,other 11q23/MLL,FALSE
+AML_071,diagnostic,M5,t(10;11),TRUE
+AML_072,diagnostic,M2,t(8;21),TRUE
+AML_073,diagnostic,M2,t(8;21),TRUE
+AML_074,diagnostic,M4,other clon abn,FALSE
+AML_075,diagnostic,M3,t(15;17),FALSE
+AML_076,diagnostic,M7,other clon abn,FALSE
+AML_077,diagnostic,M2,t(8;21),TRUE
+AML_078,diagnostic,M2,other clon abn,TRUE
+AML_079_r,relapse,M4,,TRUE
+AML_080,diagnostic,M2,t(8;21),TRUE
+AML_081,diagnostic,M2,t(8;21),TRUE
+AML_082,diagnostic,data missing,inv(16),
+AML_083,diagnostic,M6,other clon abn,FALSE
+AML_084,diagnostic,M4,other clon abn,FALSE
+AML_085,diagnostic,M0,t(8;21),FALSE
+AML_086,diagnostic,M2,t(9;11),TRUE
+AML_087,diagnostic,M0,mono 7,FALSE
+AML_029_r,relapse,M2,,TRUE
+AML_088,diagnostic,M5,other clon abn,FALSE
+AML_089,diagnostic,M5,t(9;11),
+AML_090,diagnostic,M4,normal,FALSE
+AML_091,diagnostic,M5,other 11q23/MLL,
+AML_092,diagnostic,M5,other clon abn,FALSE
+AML_093,diagnostic,M4,other clon abn,TRUE
+AML_028,diagnostic,M2,inv(16),TRUE
+AML_079,diagnostic,M4,other clon abn,TRUE
+AML_094,diagnostic,M1,other clon abn,
+AML_095,diagnostic,M2,inv(16),FALSE
+AML_096,diagnostic,M0,sole+8,TRUE
+AML_097,diagnostic,M6,other clon abn,TRUE
+AML_060,diagnostic,M5,other clon abn,TRUE
+AML_098,diagnostic,data missing,other clon abn,TRUE
+AML_099,diagnostic,M4,other clon abn,
+AML_077_r,relapse,M2,,TRUE
+AML_100,diagnostic,M2,t(8;21),TRUE
+AML_101,diagnostic,M1,other clon abn,TRUE
+AML_065,diagnostic,M4,normal,TRUE
+AML_102,diagnostic,M5,t(9;11),FALSE
+AML_072_r,relapse,M2,,TRUE
+AML_103,diagnostic,M5,t(9;11),TRUE
+AML_104_r,relapse,M1,,TRUE
+AML_105,diagnostic,M4,normal,TRUE
+AML_106,diagnostic,M3,t(15;17),FALSE
+AML_107,diagnostic,data missing,no result,FALSE
+AML_108,diagnostic,M4,normal,TRUE
+AML_109,diagnostic,M0,mono 7,TRUE
+AML_047,diagnostic,M4,t(8;21),TRUE
+AML_110,diagnostic,M4,inv(16),FALSE
+AML_111,diagnostic,M1,t(8;21),FALSE
+AML_001_r,relapse,M2,,TRUE
+AML_112,diagnostic,M5,t(9;11),TRUE
+AML_104,diagnostic,M1,normal,TRUE
+AML_113,diagnostic,M1,normal,FALSE
+AML_114_r,relapse,M4,,TRUE
+AML_039,diagnostic,M2,normal,TRUE
+AML_115,diagnostic,M4,normal,FALSE
+AML_116,diagnostic,data missing,normal,
+AML_117,diagnostic,M4,normal,FALSE
+AML_043_r,relapse,M2,,TRUE
+AML_093_r,relapse,M4,,TRUE
+AML_118,diagnostic,M2,t(8;21),TRUE
+AML_119,diagnostic,M4,inv(16),FALSE
+AML_120,diagnostic,M5,t(9;11),
+AML_121,diagnostic,M2,t(8;21),FALSE
+AML_122,diagnostic,M2,normal,FALSE
+AML_033,diagnostic,M6,normal,TRUE
+AML_123,diagnostic,M4,inv(16),FALSE
+AML_124,diagnostic,M2,normal,FALSE
+AML_125,diagnostic,M5,mono 7,TRUE
